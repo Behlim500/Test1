@@ -1,1 +1,1 @@
-console.log("ghhghh")
+console.log("ghhghh"); console.log("ghhghh"); console.log("ghhghh"); console.log("ghhghh"); console.log("ghhghh"); console.log("ghhghh"); console.log("ghhghh");
